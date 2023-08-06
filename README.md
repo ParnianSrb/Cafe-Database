@@ -1,5 +1,5 @@
 # Cafe-Database
-### This application creates a Cafe Menu. Being able to insert Warm and Cold drinks, with relevant properties, in a Database -called cafe_menu-, for instance: Price, size, type and etc.
+### This application creates a Cafe Menu, and the ability to insert Warm and Cold drinks, with relevant properties, in a Database -called cafe_menu-, for instance: Price, size, type and etc.
 
 
 Follow these steps:
