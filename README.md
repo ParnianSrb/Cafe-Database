@@ -13,3 +13,8 @@ Follow these steps:
 
 ![db-cafe](https://github.com/ParnianSrb/Cafe-Database/assets/82469872/d8e34ffd-258b-41fa-b82b-cd49825d7f9a)
 ![db-cafe-2](https://github.com/ParnianSrb/Cafe-Database/assets/82469872/1c1ed14e-6efe-4774-9cd1-4a2487fc4496)
+
+Installation Instructions:
+
+To use python I have tried coding with PyCharm which has been easy and straightforward. Here is the link to download and install: https://www.jetbrains.com/pycharm/download/?section=windows / https://www.jetbrains.com/help/pycharm/installation-guide.html#snap
+To use MySQL DBMS, refer to https://dev.mysql.com/doc/refman/8.1/en/tutorial.html
